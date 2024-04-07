@@ -1,3 +1,8 @@
+// Identificação do grupo:
+// - Enrique Granado Novaes, 10276914
+// Gabriel Santos, 10388025
+// Paulo Henrique Camargo, 10389453
+
 #include "mpi.h"
 #include <stdio.h>
 #include <stdlib.h>
